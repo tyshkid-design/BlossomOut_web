@@ -512,9 +512,10 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: white;
 }
 .founder-card:nth-child(2) .founder-photo-wrap {
-  background: #EAF4EA;
+  background: white;
 }
 .founder-photo-wrap img {
   width: 300px;
